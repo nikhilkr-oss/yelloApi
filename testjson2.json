@@ -1,22 +1,8 @@
 [
     {
-        "location": "Frankfurt, Germany",
-        "limit": 3012661860106200.0,
-        "used": 512790914657440.0
-    },
-    {
-        "location": "Chicago, IL, US",
-        "limit": 2232008604385300.0,
-        "used": 123181070394330.0
-    },
-    {
-        "location": "Los Angeles, CA, US",
-        "limit": 2034096511385600.0,
-        "used": 881355624784340.0
-    },
-    {
-        "location": "London, United Kingdom",
-        "limit": 1099511627776000.0,
-        "used": 157117397671830.0
+        "serveraddress": "172.105.63.182",
+        "remortserversni":"oz.com",
+        "password": "password1",
+        "port": 443
     }
 ]
