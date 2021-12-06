@@ -4,5 +4,11 @@
         "remortserversni":"oz.com",
         "password": "password1",
         "port": 443
+    },
+    {
+        "serveraddress": "172.105.61.182",
+        "remortserversni":"ozz.com",
+        "password": "password1",
+        "port": 443
     }
 ]
