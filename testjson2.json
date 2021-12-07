@@ -3,12 +3,12 @@
         "serveraddress": "172.105.63.182",
         "remortserversni":"oz.com",
         "password": "password1",
-        "port": 443
+        "algid": "xX2D58MhkK"
     },
     {
         "serveraddress": "172.105.61.182",
         "remortserversni":"ozz.com",
         "password": "password1",
-        "port": 443
+        "algid": "xX2D58MhkK"
     }
 ]
