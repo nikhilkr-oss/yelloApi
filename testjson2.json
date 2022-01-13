@@ -1,13 +1,27 @@
 [
     {
-        "serveraddress": "2222",
-        "serveraddress2":"c18o6/N7g1fN6Qn28NHidg==",
-        "servername": "google"
+        "serveraddress": "8.8.8.8",
+        "serveraddress2":"8.8.4.4",
+        "servername": "google dns"
     },
     {
         
-        "serveraddress": "K49tNMqUZzW2NofWTDd/lQ==",
-        "serveraddress2":"eWe1avDA9z0K8sAyZ/QNzw==",
-        "servername": "opendns"
-    }
+        "serveraddress": "9.9.9.9",
+        "serveraddress2":"149.112.112.112",
+        "servername": "quad 9"
+    },
+    
+    {
+        
+        "serveraddress": "208.67.222.222",
+        "serveraddress2":"208.67.220.220",
+        "servername": "open dns"
+    },
+    
+     {
+        
+        "serveraddress": "1.1.1.1",
+        "serveraddress2":"1.0.0.1",
+        "servername": "Cloudflare"
+    },
 ]
