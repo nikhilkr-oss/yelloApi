@@ -1,4 +1,4 @@
-  {"featured": [
+ [
             {
                 "prd_id": "52",
                 "prd_name": "organic hand wash",
@@ -75,4 +75,4 @@
                 "price": "150",
                 "slash_price": "80"
             }
-        ]}
+        ]
