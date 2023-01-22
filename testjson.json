@@ -1,11 +1,11 @@
  [
             {
                 "prd_id": "52",
-                "prd_name": "organic hand wash",
-                "prd_image": "https://cdn.shopify.com/s/files/1/0498/3324/6870/products/6291108899724__1__png_grande.png?v=1616839701",
+                "prd_name": "Lifebuoy Sanitizer",
+                "prd_image": "https://firebasestorage.googleapis.com/v0/b/boom-555db.appspot.com/o/sanitizer.jpg?alt=media&token=68239997-f746-4f62-80ec-630bcbc5ae25",
             
-               "price": "20",
-                "slash_price": "10"
+               "price": "90",
+                "slash_price": "80"
             },
             {
                 "prd_id": "51",
@@ -27,11 +27,11 @@
             {
                 "prd_id": "42",
                 "prd_name": "hand wash",
-                "prd_image": "https://cdn.shopify.com/s/files/1/0498/3324/6870/products/6291108899724__1__png_grande.png?v=1616839701",
+                "prd_image": "https://firebasestorage.googleapis.com/v0/b/boom-555db.appspot.com/o/handwash.jpg?alt=media&token=1d87490d-707e-473c-b6ec-11bd8e1e45c6",
               
                 "price": "160",
-                "currency": "SAR",
-                "rating": "3.7"
+               "slash_price": "100"  
+
             },
            
     
@@ -54,7 +54,7 @@
     {
                 "prd_id": "84",
                 "prd_name": "Lux soap",
-                "prd_image": "https://www.linkpicture.com/view.php?img=LPic63cbf578ec1da2092798134",
+                "prd_image": "https://firebasestorage.googleapis.com/v0/b/boom-555db.appspot.com/o/lux.jpg?alt=media&token=e0648bac-5006-45cd-8984-3c0be1a4fc79",
                
                 "price": "100",
                 "slash_price": "80"
@@ -62,7 +62,7 @@
     {
                 "prd_id": "04",
                 "prd_name": "Axe Body spray",
-                "prd_image": "https://www.linkpicture.com/view.php?img=LPic63cbf6af3938d1073804795",
+                "prd_image": "https://firebasestorage.googleapis.com/v0/b/boom-555db.appspot.com/o/axeee.jpg?alt=media&token=1adb11f2-8aa9-478c-8c96-ce43cadc0b67",
                
                 "price": "100",
                 "slash_price": "80"
@@ -74,5 +74,63 @@
                
                 "price": "150",
                 "slash_price": "80"
+            },
+              {
+                "prd_id": "07",
+                "prd_name": "Face wash",
+                "prd_image": "https://firebasestorage.googleapis.com/v0/b/boom-555db.appspot.com/o/facewash.jpg?alt=media&token=a018d046-7868-4e9a-b4f7-5e954222cc43",
+               
+                "price": "250",
+                "slash_price": "180"
+            },
+             {
+                "prd_id": "01",
+                "prd_name": "Hair serum",
+                "prd_image": "https://firebasestorage.googleapis.com/v0/b/boom-555db.appspot.com/o/serum.jpg?alt=media&token=46fc23af-5e09-48a4-a65d-cb7b8c5edd67",
+               
+                "price": "150",
+                "slash_price": "120"
+            },
+             {
+                "prd_id": "02",
+                "prd_name": "Shampoo",
+                "prd_image": "https://firebasestorage.googleapis.com/v0/b/boom-555db.appspot.com/o/shampoo.jpg?alt=media&token=d23c484b-c655-42b1-8327-e3693f7ba059",
+               
+                "price": "250",
+                "slash_price": "120"
+            },
+             {
+                "prd_id": "11",
+                "prd_name": "Hair spray",
+                "prd_image": "https://firebasestorage.googleapis.com/v0/b/boom-555db.appspot.com/o/hair%20spray.jpg?alt=media&token=68761ad7-8ff4-4bdd-873a-5a59e4774e00",
+               
+                "price": "150",
+                "slash_price": "120"
+            },
+            {
+                "prd_id": "11",
+                "prd_name": "Body lotion",
+                "prd_image": "https://firebasestorage.googleapis.com/v0/b/boom-555db.appspot.com/o/body%20lotion.jpg?alt=media&token=d8d9072c-c9cb-4ece-b8b6-989ca50dd6d8",
+               
+                "price": "450",
+                "slash_price": "320"
+            },
+             {
+                "prd_id": "18",
+                "prd_name": "Baby cream",
+                "prd_image": "https://firebasestorage.googleapis.com/v0/b/boom-555db.appspot.com/o/baby.jpg?alt=media&token=65634d2d-2f3e-4677-8ed8-1e8a6e2ddcc7",
+               
+                "price": "350",
+                "slash_price": "300"
+            },
+            {
+                "prd_id": "20",
+                "prd_name": "Shower gel",
+                "prd_image": "https://firebasestorage.googleapis.com/v0/b/boom-555db.appspot.com/o/shower.jpg?alt=media&token=040feb51-f258-45d8-918a-c5e827d81115",
+               
+                "price": "250",
+                "slash_price": "200"
             }
+              
         ]
+       
